@@ -1,0 +1,4 @@
+Model,Accuracy
+Random Forest,1.0
+SVM,1.0
+KNN,1.0
